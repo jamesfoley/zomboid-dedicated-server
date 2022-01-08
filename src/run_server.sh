@@ -99,5 +99,4 @@ function set_variables() {
 set_variables
 update_folder_permissions
 update_server
-apply_postinstall_config
 start_server
